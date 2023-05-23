@@ -1,2 +1,2 @@
-# blog
-Personal updates and articles.
+# Coursera
+practice for webdev
